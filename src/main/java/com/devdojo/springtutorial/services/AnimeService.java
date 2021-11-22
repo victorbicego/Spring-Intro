@@ -7,9 +7,7 @@ import com.devdojo.springtutorial.repository.AnimeRepository;
 import com.devdojo.springtutorial.requests.AnimePostRequestBody;
 import com.devdojo.springtutorial.requests.AnimePutRequestBody;
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
-import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
 
